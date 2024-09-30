@@ -74,3 +74,13 @@
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saurabh007007&theme=tokyonight">
 
 </div>
+
+## Some Recent Projects
+
+<p align="center">
+Job Board <a href="https://job-borad.vercel.app/"> link </a>
+<br>
+Web 3 Wallet <a href="https://web3-wallet-nine-nu.vercel.app/"> Link </a>
+<br>
+Brand Landing Project <a href="https://brand-landing-page-ten.vercel.app/"> Link </a>
+</p>
