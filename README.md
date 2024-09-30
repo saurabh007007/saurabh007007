@@ -77,7 +77,7 @@
 
 ## Some Recent Projects
 
-<p align="center">
+<p >
 Job Board <a href="https://job-borad.vercel.app/"> link </a>
 <br>
 Web 3 Wallet <a href="https://web3-wallet-nine-nu.vercel.app/"> Link </a>
