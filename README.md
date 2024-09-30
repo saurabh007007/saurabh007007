@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Job-Board](https://github.com/saurabh007007/Job-Borad) (Checkout daily progress on [Twitter](https://x.com/saurabh00700714))
 
-- 🌱 I’m currently learning **Kotlin Multiplatform**
+- 🌱 I’m currently learning **WEB 3**
 
 - 👨‍💻 Checkout my Portfolio at [Working 0n it](link)
 
