@@ -49,6 +49,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL&style=for-the-badge)
 
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/Neovim-000?logo=neovim&style=for-the-badge)
 ![Shell Script](https://img.shields.io/badge/shell_script-000?style=for-the-badge&logo=gnu-bash)
