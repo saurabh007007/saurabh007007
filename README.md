@@ -1,123 +1,107 @@
-<div align="center">
+<p align="center">
+<img align="center" alt="coding" width="170" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+</p>
+
+<div align="center"> 
   
-  <!-- Header Banner -->
-  <img src="https://sjc.microlink.io/_EMSh3u9zp04Nx2plAO54tEnJIQuQSuuI8N4ncuIxabnO3nMfTUWe722lVhe535LS0WioyNez2wUm-EYGFcJvw.jpeg" alt="Coding Animation Banner" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=700&duration=1500&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Saurabh+Yadav;I'm+an+MERN+Developer...;%F0%9F%8C%90+Backend+Developer;%F0%9F%8E%A8+WEB3+Learner+;%F0%9F%90%A7Linux+Enthusiast+;Nice+to+meet+you+%F0%9F%98%8A%F0%9F%91%8B)](https://git.io/typing-svg)
 
-  <!-- Animated Text -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=5689F5&center=true&vCenter=true&random=false&width=600&lines=Hi+👋%2C+I'm+Saurabh+Yadav;MERN+Stack+Developer;WEB3+Enthusiast;Linux+Lover)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=saurabh007007&label=Profile%20views&color=5689f5&style=for-the-badge" alt="vishal2376" />
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=saurabh007007&label=Profile%20views&color=5689f5&style=for-the-badge" alt="Profile Views" />
-
-  <br/>
-  
-  <!-- Quick Info -->
-  <p>
-    <strong>🚀 Full Stack Developer | 💻 Open Source Enthusiast | 🌐 Web3 Explorer</strong>
-  </p>
 </div>
 
----
+- 🔭 I’m currently working on [Job-Board](https://github.com/saurabh007007/Job-Borad) (Checkout daily progress on [Twitter](https://x.com/saurabh00700714))
 
-### 🔭 Current Focus
+- 🌱 I’m currently learning **WEB 3**
 
-- Building [Job-Board](https://github.com/saurabh007007/Job-Borad) - Follow progress on [Twitter](https://x.com/saurabh00700714)
-- Diving deep into **Web3 Technologies**
-- Crafting my portfolio website *(Coming Soon)*
+- 👨‍💻 Checkout my Portfolio at [Working 0n it](link)
 
-### 💼 Featured Projects
+- 💬 Ask me about **MERN, Java, Python, Linux**
+  <br>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://job-borad.vercel.app/">
-        <strong>Job Board</strong>
-        <br/>
-        <sub>MERN Stack Job Platform</sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://web3-wallet-nine-nu.vercel.app/">
-        <strong>Web3 Wallet</strong>
-        <br/>
-        <sub>Cryptocurrency Wallet Solution</sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://brand-landing-page-ten.vercel.app/">
-        <strong>Brand Landing</strong>
-        <br/>
-        <sub>Modern Landing Page</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<br>
 
-### 🛠️ Tech Stack
+<h3 align="center">📫 Reach out to me on</h3>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/saurabh-yadav-596a5b250/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/100_xdev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:2204280100153@kashiit.ac.in?subject=Hello%20Saurabh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://x.com/saurabh00700714"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-<div align="center">
+## 👨‍💻 Tools & Platforms
 
-#### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="center">
+
+![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
 
-#### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### Backend & Database
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-#### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![MYSQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL&style=for-the-badge)
+
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux&style=for-the-badge)
+![Neovim](https://img.shields.io/badge/Neovim-000?logo=neovim&style=for-the-badge)
+![Shell Script](https://img.shields.io/badge/shell_script-000?style=for-the-badge&logo=gnu-bash)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
+</p>
+
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 
-### 🏆 GSSOC'24 Achievements
-<div align="center">
-  <a href="https://gssoc.girlscript.tech/leaderboard">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="80px"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="80px"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="80px"/>
-  </a>
-</div>
+## 📈 Stats
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saurabh007007&theme=tokyonight"/>
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabh007007&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabh007007&theme=tokyonight"/>
-</div>
-
-### 📫 Connect With Me
-
-<div align="center">
+<p align="center">
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabh007007&theme=tokyonight" />
   
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-yadav-596a5b250/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/saurabh00700714)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/100_xdev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2204280100153@kashiit.ac.in)
-
-</div>
-
----
+  <br>
+  <img width="35%" height="100px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishal2376&theme=tokyonight" />
+</p>
 
 <div align="center">
-  <sub>💙 Thanks for visiting my profile! Let's connect and build something amazing together.</sub>
+
+   <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabh007007&theme=tokyonight" />
+
+</br>
+</br>
+
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saurabh007007&theme=tokyonight">
+
 </div>
+
+## Some Recent Projects
+
+<p >
+Job Board <a href="https://job-borad.vercel.app/"> link </a>
+<br>
+Web 3 Wallet <a href="https://web3-wallet-nine-nu.vercel.app/"> Link </a>
+<br>
+Brand Landing Project <a href="https://brand-landing-page-ten.vercel.app/"> Link </a>
+</p>
