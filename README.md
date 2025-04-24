@@ -28,7 +28,8 @@
   <a href="mailto:2204280100153@kashiit.ac.in?subject=Hello%20Saurabh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://x.com/saurabh00700714"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<center><a href="https://www.buymeacoffee.com/saurabh007007"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=saurabh007007&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<center>
+  <a href="https://www.buymeacoffee.com/saurabh007007"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Chai&emoji=☕&slug=saurabh007007&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </center>
 
 ## 👨‍💻 Tools & Platforms
