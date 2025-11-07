@@ -9,3 +9,4 @@
 | **webpack.js.org** | Bug fix in sponsor section | [#7568](https://github.com/webpack/webpack.js.org/pull/7568) |
 | **Med-o-Health** | Feature: converted to TurboRepo | [#7](https://github.com/Megh2005/Med-o-Next-TJP/pull/7) |
 | **HoneyNet (BuffaLogs)** | Feature: added management commands | [#459](https://github.com/certego/BuffaLogs/pull/459) |
+| **HoneyNet (BuffaLogs)** |Fix: Fixed the docker build file | [#459](https://github.com/certego/BuffaLogs/pull/467) |
