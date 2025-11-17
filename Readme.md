@@ -60,13 +60,6 @@ A lightweight, clean desktop text editor built with Python.
 
 ---
 
-### **AI Lab — Multi-LLM Platform**
-A production-ready AI platform integrating multiple LLMs with OpenRouter.  
-**Tech:** Next.js, MongoDB, Tailwind, ShadcnUI  
-🔗 https://github.com/saurabh007007/ai-festa-exposing
-
----
-
 ### **Job Board — Hiring Platform**
 Full-stack job portal with RBAC, recruiter dashboards, and secure authentication.  
 **Tech:** MERN Stack, JWT, ShadcnUI  
