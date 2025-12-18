@@ -21,31 +21,26 @@ clean architecture, performance optimization, and open-source collaboration.
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,py,cpp,c&theme=light" />
   <img src="https://skillicons.dev/icons?i=js,ts,java,py,cpp,c&theme=dark" />
 </p>
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css&theme=light" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css&theme=dark" />
 </p>
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=light" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" />
 </p>
 
 ### **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light" />
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
 </p>
 
 ### **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,kubernetes,postman,figma&theme=light" />
   <img src="https://skillicons.dev/icons?i=docker,git,github,aws,kubernetes,postman,figma&theme=dark" />
 </p>
 
