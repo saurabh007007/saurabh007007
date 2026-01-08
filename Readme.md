@@ -17,7 +17,28 @@ clean architecture, performance optimization, and open-source collaboration.
 
 ---
 
+
+
+
+---
+
+## 🤝 Open Source Contributions
+
+| Project | Contribution | Link |
+|--------|--------------|------|
+| Grafana  | Feature Dahboard Migration  | https://github.com/grafana/grafana/pull/115861 |
+| webpack-dev-server | Feature + tests | https://github.com/webpack/webpack-dev-server/pull/5598 |
+| Code100x/1ai | Added Pro model | https://github.com/code100x/1ai/pull/24 |
+| webpack.js.org | Bug fix | https://github.com/webpack/webpack.js.org/pull/7568 |
+| Med-o-Health | TurboRepo migration | https://github.com/Megh2005/Med-o-Next-TJP/pull/7 |
+| BuffaLogs | Management commands | https://github.com/certego/BuffaLogs/pull/459 |
+| BuffaLogs | Dockerfile fix | https://github.com/certego/BuffaLogs/pull/467 |
+
+---
+
+
 ## 🛠️ Skills & Technologies
+
 
 ### **Languages**
 <p>
