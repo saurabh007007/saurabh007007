@@ -73,6 +73,7 @@ Generates complete websites from natural language prompts.
 
 | Project | Contribution | Link |
 |--------|--------------|------|
+| Grafana  | Feature Dahboard Migration  | https://github.com/grafana/grafana/pull/115861 |
 | webpack-dev-server | Feature + tests | https://github.com/webpack/webpack-dev-server/pull/5598 |
 | Code100x/1ai | Added Pro model | https://github.com/code100x/1ai/pull/24 |
 | webpack.js.org | Bug fix | https://github.com/webpack/webpack.js.org/pull/7568 |
